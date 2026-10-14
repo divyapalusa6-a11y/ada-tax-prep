@@ -137,7 +137,7 @@ def new_valid_deductions():
         "child": 5000,
         "tuition": 5000,
         "healthcare": 5000,
-        "home office": 5000
+        "sales tax": 5000
     }
 def test_deducted_income_cannot_fall_below_zero():
     income = 10000
